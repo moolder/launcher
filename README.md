@@ -4,9 +4,9 @@ Windows only: Open your preferred explorer paths or run commands via simple keyb
 # installation
 save exe locally, put link to it in your autorun folder.
 
-#usage
-* [win]+[space] Open Config Window
-* [win]+[0] - [win]+[9] Launch Folder
-* [shift]+[win]+[0] - [shift]+[win]+[0] - type Foldername
+# usage
+* [win]+[space] Configure Folder paths / commands
+* [win]+[0] - [win]+[9] Launch Folder / command
+* [shift]+[win]+[0] - [shift]+[win]+[0] - type Foldername / command
 
 Have fun!
